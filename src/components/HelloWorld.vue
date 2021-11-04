@@ -2,8 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
+      我是大傻打球烂输了双air force one 带上我的兄弟小胖山歌王是我小伙伴
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
     <h3>Installed CLI Plugins</h3>
